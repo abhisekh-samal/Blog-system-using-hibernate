@@ -19,7 +19,7 @@ root
 </property>
 
 <property name="hibernate.connection.password">
-abhi1a2b3c
+helloji
 </property>
 
 <property name="hibernate.dialect">
@@ -39,5 +39,6 @@ true
 <mapping class="com.example.blog.Comment"/>
 
 </session-factory>
+
 
 </hibernate-configuration>
